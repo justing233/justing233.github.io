@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title></title>
+    <url>/2023/07/24/Python%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/</url>
+    <content><![CDATA[<h3 id="欢迎来到我的python3教程━-｀∀´-ノ亻"><a href="#欢迎来到我的python3教程━-｀∀´-ノ亻" class="headerlink" title="欢迎来到我的python3教程━(｀∀´)ノ亻!"></a>欢迎来到我的python3教程━(<em>｀∀´</em>)ノ亻!</h3><p>希望这篇文章能够帮到你<br>好了，废话不多说。首先你需要下载一个Python3<br>官网链接：<a href="https://www.python.org/downloads">https://www.python.org/downloads</a><br>备用链接：<a href="https://wwkt.lanzoul.com/iuJ2z0x9641e">https://wwkt.lanzoul.com/iuJ2z0x9641e</a>  密码:123</p>
+<p>下载好后，进行安装<br><img src="https://pic3.zhimg.com/80/v2-ac33c2a599ab543a2d029540306e4122_1440w.webp" alt="图片" title="图片01"><br><img src="https://pic1.zhimg.com/80/v2-c26357028c8f22e64568cf4770a94708_1440w.webp" alt="图片2" title="图片02"><br><img src="https://pic4.zhimg.com/80/v2-56da688d1d6c4989d90571accaa5bd57_1440w.webp" alt="图片3" title="图片03"><br><img src="https://pic2.zhimg.com/80/v2-8b5bdbb6d0e42e694e938a540294ce21_1440w.webp" alt="图片4" title="图片04"><br>出现上面的图片单击“close”按钮以后就安装成功啦！  </p>
+<p>然后点击开始菜单旁边的搜索，输入“IDLE“就会看见IDLE(Python 3.7 64-bit)<br>单击IDLE，你就进入了shell窗口，我们不管它，在上面的菜单栏内点击“File”，在弹出的小菜单中，点击“New file”<br><img src="https://img1.imgtp.com/2023/07/24/0L5v9fRF.png" alt="shell" title="shell1"><br>就可以看见一个全是白色的窗口，这个叫作编辑窗口<br><img src="https://img1.imgtp.com/2023/07/24/l4BtV8MD.png" alt="window" title="windows1"><br>然后我们在这个窗口里输入<br><code>print(&quot;Hello,world&quot;)</code><br>就可以在shell窗口中看见“Hello,world”字样  </p>
+<p>解析：print是python的一个函数，它可以把一段信息输出在屏幕上。小括号中的双引号里的文字，是字符串，<br>也就是需要显示的东西<br>把这篇文章转发出去，让跟多人看到！</p>
+]]></content>
+  </entry>
+  <entry>
     <title>星巴克杯子，但是里面装了柠檬水</title>
     <url>/2023/07/19/%E6%98%9F%E5%B7%B4%E5%85%8B%E6%9D%AF%E5%AD%90%EF%BC%8C%E4%BD%86%E6%98%AF%E9%87%8C%E9%9D%A2%E8%A3%85%E4%BA%86%E6%9F%A0%E6%AA%AC%E6%B0%B4/</url>
     <content><![CDATA[<p><img src="https://img1.imgtp.com/2023/07/19/uC9HyA5X.jpg" alt="一个图片" title="星巴克杯子"><br>太美了(✪ω✪)</p>
@@ -15,7 +24,7 @@
     <content><![CDATA[<h3 id="01的官网今天正式上线啦ヾ-Д"><a href="#01的官网今天正式上线啦ヾ-Д" class="headerlink" title="01的官网今天正式上线啦ヾ(^Д^*)&#x2F;"></a>01的官网今天正式上线啦ヾ(^Д^*)&#x2F;</h3><p>介是我的个人博客<br>我可以随便写写、画画、摄像，再把它们分享出去<br>包括自己做的程序也可以分享<br>肥肠自由 ~ (￣▽￣) ~    </p>
 <p>您可以把我分享的信息框选后复制到粘贴板上；或右键→另存为，再保存到本地。通过这种方式获取分享的信息<br>注意！我的博客只有这一个：justing233.github.io</p>
 <p>如果你喜欢我的网站那就吧这个网站添加到收藏夹里吧！<br>想要看所有文章请在左侧的侧边栏里单击“归档”字样<br>观看<a href="https://www.bilibili.com/video/BV1AW4y1d7bn?t=16.0">宣传影片</a></p>
-<h3 id="合作"><a href="#合作" class="headerlink" title="合作"></a>合作</h3><p>手机号：+86 152 6521 7251<br>微信同上↑↑↑<br>QQ：3630405274<br>bilibili：<a href="https://space.bilibili.com/1772955140?spm_id_from=333.1007.0.0">https://space.bilibili.com/1772955140?spm_id_from=333.1007.0.0</a><br>抖音号：53839325467<br>邮箱：<a href="mailto:&#x6a;&#117;&#115;&#x74;&#x69;&#x6e;&#103;&#x30;&#54;&#x30;&#x31;&#64;&#x31;&#x36;&#51;&#46;&#x63;&#x6f;&#x6d;">&#x6a;&#117;&#115;&#x74;&#x69;&#x6e;&#103;&#x30;&#54;&#x30;&#x31;&#64;&#x31;&#x36;&#51;&#46;&#x63;&#x6f;&#x6d;</a></p>
+<h3 id="合作"><a href="#合作" class="headerlink" title="合作"></a>合作</h3><p>手机号：+86 152 6521 7251<br>微信同上↑↑↑<br>QQ：3630405274<br>bilibili：<a href="https://space.bilibili.com/1772955140?spm_id_from=333.1007.0.0">https://space.bilibili.com/1772955140?spm_id_from=333.1007.0.0</a><br>抖音号：53839325467<br>邮箱：<a href="mailto:&#x6a;&#117;&#115;&#x74;&#x69;&#110;&#103;&#48;&#x36;&#x30;&#49;&#x40;&#49;&#x36;&#51;&#x2e;&#x63;&#111;&#x6d;">&#x6a;&#117;&#115;&#x74;&#x69;&#110;&#103;&#48;&#x36;&#x30;&#49;&#x40;&#49;&#x36;&#51;&#x2e;&#x63;&#111;&#x6d;</a></p>
 ]]></content>
   </entry>
 </search>
